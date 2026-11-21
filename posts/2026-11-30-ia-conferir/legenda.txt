@@ -1,0 +1,11 @@
+A IA escreve com confiança, mesmo quando erra. Confira o que importa.
+
+Uma revisão de pesquisa sobre alucinação em modelos de linguagem (Ji e colegas, 2023) mostra que esses sistemas podem gerar textos fluentes e coerentes com informações não previstas e nem sempre verificáveis a partir da fonte. Por isso um texto bem escrito não prova que está certo.
+
+Antes de usar, confira números, nomes, datas e citações que a IA trouxe.
+
+Salve este post e releia seu próximo texto feito com IA com esse olhar.
+
+Fonte: Ji, Z. et al. Survey of Hallucination in Natural Language Generation. ACM Computing Surveys, 55(12), 2023. DOI 10.1145/3571730.
+
+#inteligenciaartificial #ia #produtividade #pensamentocritico #comunicacao #carreira
